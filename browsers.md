@@ -19,3 +19,7 @@ Even the website interface is very same as your favorite one, but if the domain 
 ## Take care of the website content
 If your browser displays any red messages (for example: Security Warning), it might be a sign of an attack. Please come back right away, reach any experts to look for the reason.
 
+## Avoid uncommon extensions
+Sometimes, when surfing over the Internal, you might face a popup, which invites you to install an extension/plugins. Or some websites kindly download a .CRX file for you and suggest clicking on that file. Please hold on and do a deep research on that extension or just ignore it if possible.
+
+In the security perspective, the browser extension/plugin is very powerful, some can read/modify your web page. Your information will be very cheap in that case.
